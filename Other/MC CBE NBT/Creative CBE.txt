@@ -1,0 +1,1 @@
+.cbe beehive /gamemode c @p

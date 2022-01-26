@@ -1,0 +1,1 @@
+.cbe beehive /playanimation @e animation.ghast.scale z 999

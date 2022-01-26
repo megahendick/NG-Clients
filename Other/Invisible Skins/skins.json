@@ -1,0 +1,79 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+ {
+      "localization_name": "1 1",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Astelic.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "2 2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BBH Ducky.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "3 3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Boone Ducky.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "4 4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Boone.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "5 5",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fall Guys.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "6 6",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Penguin Onesie.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "7 7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pink And Blue.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "8 8",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rainbow Ninja.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "9 9",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rainbow Skeppy.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "10 10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Red Panda Onesie.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "11 11",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Ruby Roundhouse.png.png",
+      "type": "free"
+    },
+ {
+      "localization_name": "12 12",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Turtle",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "(Glitch-Pack)",
+  "localization_name": "(FAS)"
+}

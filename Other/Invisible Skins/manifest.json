@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "(Glitch-Pack)",
+        "uuid": "bd70cb78-cad5-4130-a16c-0f4323855068",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "7f4b2e65-a10f-48d2-b8b9-6e174504a2e7",
+            "version": [0, 0, 1]
+        }
+    ]
+}

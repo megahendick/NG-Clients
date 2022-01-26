@@ -1,0 +1,1 @@
+.cbe beehive /execute @p ~~~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 glass 0 outline
